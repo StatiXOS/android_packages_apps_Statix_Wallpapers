@@ -8,7 +8,7 @@
 -->
 
 <resources>
-    <array name="partner_wallpapers" translatable="false">
+    <array name="wallpapers" translatable="false">
         <item>Bubbly</item>
         <item>CircleRush</item>
         <item>CrystalLake</item>
