@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright © 2020 StatiXOS
+
+     Licensed under the GNU GPLv2 license
+
+     The text of the license can be found in the LICENSE file
+     or at https://www.gnu.org/licenses/gpl-2.0.txt
+-->
+
+<resources>
+    <array name="partner_wallpapers" translatable="false">
+        <item>Bubbly</item>
+        <item>CircleRush</item>
+        <item>CrystalLake</item>
+        <item>FadedGreen</item>
+        <item>Galaxy</item>
+        <item>LiquidPurple</item>
+        <item>QuietRiot</item>
+        <item>RaidRush</item>
+        <item>SpaceDrop</item>
+        <item>VolcanoBay</item>
+        <item>Whirlwinds</item>
+    </array>
+</resources>

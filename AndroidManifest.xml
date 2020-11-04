@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright © 2020 StatiXOS
+
+     Licensed under the GNU GPLv2 license
+     
+     The text of the license can be found in the LICENSE file
+     or at https://www.gnu.org/licenses/gpl-2.0.txt
+-->
+
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.statix.wallpapers"
+    android:versionCode="30"
+    android:versionName="1.0" >
+
+    <application
+        android:label="@string/app_name">
+
+        <receiver android:name=".StatiXOSWalls">
+            <intent-filter>
+                <action android:name="com.android.launcher3.action.PARTNER_CUSTOMIZATION"/>
+            </intent-filter>
+        </receiver>
+
+    </application>
+</manifest>
