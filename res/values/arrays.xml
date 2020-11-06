@@ -10,12 +10,12 @@
 <resources>
     <array name="wallpapers" translatable="false">
         <item>Bubbly</item>
-        <item>CircleRush</item>
+        <item>Bubbly2</item>
         <item>CrystalLake</item>
         <item>FadedGreen</item>
         <item>Galaxy</item>
         <item>LiquidPurple</item>
-        <item>QuietRiot</item>
+        <item>Glacial</item>
         <item>RaidRush</item>
         <item>SpaceDrop</item>
         <item>VolcanoBay</item>
