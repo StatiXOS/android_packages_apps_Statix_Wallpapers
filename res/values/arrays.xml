@@ -19,10 +19,12 @@
         <item>FadedGreen</item>
         <item>Galaxy</item>
         <item>LiquidPurple</item>
-        <item>Glacial</item>
+        <item>ShutteredWaves</item>
         <item>RaidRush</item>
         <item>SpaceDrop</item>
-        <item>VolcanoBay</item>
+        <item>ElementRed</item>
         <item>Whirlwinds</item>
+        <item>TheAscent</item>
+        <item>AndroidBubbles</item>
     </array>
 </resources>
