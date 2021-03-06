@@ -1,0 +1,62 @@
+<!--
+    Copyright (C) 2021 StatiXOS
+    Copyright (C) 2018 Knxt.
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+
+<resources>
+    <category id="backdrop_picks" title="@string/category_backdrop_picks" featured="Easing_Wall">
+        <static-wallpaper
+            id="Warm_Lantern"
+            src="@drawable/Warm_Lantern"
+            title="@string/wallpaper_warm_lantern"
+            subtitle1="@string/author_knxt" />
+
+        <static-wallpaper
+            id="Gradient_Flow"
+            src="@drawable/Gradient_Flow"
+            title="@string/wallpaper_gradient_flow"
+            subtitle1="@string/author_knxt" />
+
+        <static-wallpaper
+            id="Golden_Folds"
+            src="@drawable/Golden_Folds"
+            title="@string/wallpaper_golden_folds"
+            subtitle1="@string/author_knxt" />
+
+        <static-wallpaper
+            id="Crimson_Cuts"
+            src="@drawable/Crimson_Cuts"
+            title="@string/wallpaper_crimson_cuts"
+            subtitle1="@string/author_knxt" />
+
+        <static-wallpaper
+            id="Curvy_Colors"
+            src="@drawable/Curvy_Colors"
+            title="@string/wallpaper_curvy_colors"
+            subtitle1="@string/author_knxt" />
+
+        <static-wallpaper
+            id="Easing_Wall"
+            src="@drawable/Easing_Wall"
+            title="@string/wallpaper_easing_wall"
+            subtitle1="@string/author_knxt" />
+
+        <static-wallpaper
+            id="Big_Sur"
+            src="@drawable/Big_Sur"
+            title="@string/wallpaper_big_sur"
+            subtitle1="@string/author_knxt" />
+    </category>
+</resources>
