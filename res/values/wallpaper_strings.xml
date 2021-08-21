@@ -1,6 +1,6 @@
 <!--
     Copyright (C) 2021 StatiXOS
-    Copyright (C) 2018 Knxt.
+    Copyright (C) 2020-2021 Vaisakh Murali
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
@@ -16,12 +16,26 @@
 -->
 
 <resources>
-    <string name="category_backdrop_picks">Backdrop Picks</string>
-    <string name="author_knxt">by Knxt.</string>
-    <string name="wallpaper_warm_lantern">Warm Lantern</string>
-    <string name="wallpaper_gradient_flow">Gradient Flow</string>
-    <string name="wallpaper_golden_folds">Golden Folds</string>
-    <string name="wallpaper_crimson_cuts">Crimson Cuts</string>
-    <string name="wallpaper_curvy_colors">Curvy Colors</string>
-    <string name="wallpaper_easing_wall">Easing Wall</string>
+
+    <!-- Vaisakh's Collection -->
+    <string name="category_vaisakh_walls">Made by Vaisakh</string>
+    <string name="author_vaisakh">Vaisakh Murali</string>
+    <string name="wallpaper_glass_cubes">Glass Cubes</string>
+    <string name="wallpaper_coloured_plate">Colored Plates</string>
+    <string name="wallpaper_violet_beachs">Violet Beaches</string>
+    <string name="wallpaper_lava_mess">Lava Mess</string>
+    <string name="wallpaper_cracked_balls">Cracked Balls</string>
+
+    <!-- Sourajit's Collection-->
+    <string name="category_unsplash">Unsplash</string>
+    <string name="wallpaper_forest">Forest</string>
+    <string name="wallpaper_big_sur">Big Sur</string>
+    <string name="wallpaper_coastline">Coastline</string>
+    <string name="wallpaper_desert">Desert</string>
+    <string name="wallpaper_golden_skies">Golden Skies</string>
+    <string name="wallpaper_sunset">Sunset</string>
+    <string name="wallpaper_valleyscape">Valleyscape</string>
+    <string name="wallpaper_winter_evening">Winter Evening</string>
+    <string name="wallpaper_marvellous_peaks">Marvellous Peaks</string>
+
 </resources>
