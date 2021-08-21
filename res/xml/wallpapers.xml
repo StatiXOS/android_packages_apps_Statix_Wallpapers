@@ -1,6 +1,14 @@
 <!--
     Copyright (C) 2021 StatiXOS
-    Copyright (C) 2018 Knxt.
+    Copyright (C) 2020-2021 Vaisakh Murali
+    Copyright (C) 2015 Erik Mclean
+    Copyright (C) 2016 Tincho Franco
+    Copyright (C) 2013 Jonathan Kemper
+    Copyright (C) 2017 Mojtaba Mohtashami
+    Copyright (C) 2020 Marcelo Vaz
+    Copyright (C) 2014 Mads Schmidt
+    Copyright (C) 2021 Sourajit Karmakar
+    Copyright (C) 2016 Lika Zhygulina
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
@@ -16,42 +24,93 @@
 -->
 
 <resources>
-    <category id="backdrop_picks" title="@string/category_backdrop_picks" featured="Easing_Wall">
+
+    <category id="Made by Vaisakh" title="@string/category_vaisakh_walls" featured="Glass_Cubes">
         <static-wallpaper
-            id="Warm_Lantern"
-            src="@drawable/Warm_Lantern"
-            title="@string/wallpaper_warm_lantern"
-            subtitle1="@string/author_knxt" />
+            id="Glass_Cubes"
+            src="@drawable/Glass_Cubes"
+            title="@string/wallpaper_glass_cubes"
+            subtitle1="@string/author_vaisakh" />
 
         <static-wallpaper
-            id="Gradient_Flow"
-            src="@drawable/Gradient_Flow"
-            title="@string/wallpaper_gradient_flow"
-            subtitle1="@string/author_knxt" />
+            id="Coloured_plate"
+            src="@drawable/Coloured_plate"
+            title="@string/wallpaper_coloured_plate"
+            subtitle1="@string/author_vaisakh" />
 
         <static-wallpaper
-            id="Golden_Folds"
-            src="@drawable/Golden_Folds"
-            title="@string/wallpaper_golden_folds"
-            subtitle1="@string/author_knxt" />
+            id="Violet_Beach"
+            src="@drawable/Violet_Beach"
+            title="@string/wallpaper_violet_beach"
+            subtitle1="@string/author_vaisakh" />
 
         <static-wallpaper
-            id="Crimson_Cuts"
-            src="@drawable/Crimson_Cuts"
-            title="@string/wallpaper_crimson_cuts"
-            subtitle1="@string/author_knxt" />
+            id="Lava_Mess"
+            src="@drawable/Lava_Mess"
+            title="@string/wallpaper_lava_mess"
+            subtitle1="@string/author_vaisakh" />
 
         <static-wallpaper
-            id="Curvy_Colors"
-            src="@drawable/Curvy_Colors"
-            title="@string/wallpaper_curvy_colors"
-            subtitle1="@string/author_knxt" />
-
-        <static-wallpaper
-            id="Easing_Wall"
-            src="@drawable/Easing_Wall"
-            title="@string/wallpaper_easing_wall"
-            subtitle1="@string/author_knxt" />
-
+            id="Cracked_Balls"
+            src="@drawable/Cracked_Balls"
+            title="@string/wallpaper_cracked_balls"
+            subtitle1="@string/author_vaisakh" />
     </category>
+
+    <category id="From Unsplash" title="@string/category_unsplash" featured="Valleyscape">
+        <static-wallpaper
+            id="Desert"
+            src="@drawable/Desert"
+            title="@string/wallpaper_desert"
+            subtitle1="@string/author_unsplash1" />
+
+        <static-wallpaper
+            id="Big_Sur"
+            src="@drawable/Big_Sur"
+            title="@string/wallpaper_big_sur"
+            subtitle1="@string/author_unsplash2" />
+
+        <static-wallpaper
+            id="Winter_Evening"
+            src="@drawable/Winter_Evening"
+            title="@string/wallpaper_winter_evening"
+            subtitle1="@string/author_unsplash3" />
+
+        <static-wallpaper
+            id="Coastline"
+            src="@drawable/Coastline"
+            title="@string/wallpaper_coastline"
+            subtitle1="@string/author_unsplash4" />
+        
+        <static-wallpaper
+            id="Forest"
+            src="@drawable/Forest"
+            title="@string/wallpaper_forest"
+            subtitle1="@string/author_unsplash5" />
+
+        <static-wallpaper
+            id="Golden_Skies"
+            src="@drawable/Golden_Skies"
+            title="@string/wallpaper_golden_skies"
+            subtitle1="T@string/author_unsplash6" />
+
+        <static-wallpaper
+            id="Sunset"
+            src="@drawable/Sunset"
+            title="@string/wallpaper_sunset"
+            subtitle1="@string/author_unsplash7" />
+
+        <static-wallpaper
+            id="Valleyscape"
+            src="@drawable/Valleyscape"
+            title="@string/wallpaper_valleyscape"
+            subtitle1="@string/author_unsplash8" />
+
+        <static-wallpaper
+            id="Marvellous_Peaks"
+            src="@drawable/Marvellous_Peaks"
+            title="@string/wallpaper_marvellous_peaks"
+            subtitle1="@string/author_unsplash9" />
+    </category>
+
 </resources>
