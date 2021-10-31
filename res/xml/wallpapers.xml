@@ -119,4 +119,36 @@
             subtitle1="@string/author_unsplash9" />
     </category>
 
+    <category id="Gradient Collection" title="@string/category_gradient_collection" featured="Waves">
+        <static-wallpaper
+            id="Waves"
+            src="@drawable/Waves"
+            title="@string/wallpaper_waves"
+            subtitle1="@string/author_sourajit" />
+
+        <static-wallpaper
+            id="Dusk"
+            src="@drawable/Dusk"
+            title="@string/wallpaper_dusk"
+            subtitle1="@string/author_sourajit" />
+
+        <static-wallpaper
+            id="Blurple"
+            src="@drawable/Blurple"
+            title="@string/wallpaper_blurple"
+            subtitle1="@string/author_sourajit" />
+
+        <static-wallpaper
+            id="Pastel Invasion"
+            src="@drawable/Pastel_Invasion"
+            title="@string/wallpaper_pastel_invasion"
+            subtitle1="@string/author_sourajit" />
+
+        <static-wallpaper
+            id="Descending Blue"
+            src="@drawable/Descending_Blue"
+            title="@string/wallpaper_descending_blue"
+            subtitle1="@string/author_sourajit" />
+    </category>
+
 </resources>
