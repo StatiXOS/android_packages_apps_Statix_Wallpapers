@@ -56,4 +56,15 @@
     <string name="wallpaper_winter_evening">Winter Evening</string>
     <string name="wallpaper_marvellous_peaks">Marvellous Peaks</string>
 
+    <!-- Gradient Collection-->
+    <string name="category_gradient_collection">Gradient Collection</string>
+    <string name="author_sourajit">by Sourajit Karmakar</string>
+    <string name="author_fakurian">by Fakurian Studios</string>
+    <string name="wallpaper_dusk">Dusk</string>
+    <string name="wallpaper_waves">Waves</string>
+    <string name="wallpaper_blurple">Blurple</string>
+    <string name="wallpaper_pastel_invasion">Pastel Invasion</string>
+    <string name="wallpaper_descending_blue">Descending Blue</string>
+    <string name="wallpaper_sunrise_mauve">Sunrise Mauve</string>
+
 </resources>
