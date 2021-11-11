@@ -1,14 +1,12 @@
 <!--
     Copyright (C) 2021 StatiXOS
-    Copyright (C) 2020-2021 Vaisakh Murali
-    Copyright (C) 2015 Erik Mclean
-    Copyright (C) 2016 Tincho Franco
-    Copyright (C) 2013 Jonathan Kemper
-    Copyright (C) 2017 Mojtaba Mohtashami
-    Copyright (C) 2020 Marcelo Vaz
-    Copyright (C) 2014 Mads Schmidt
     Copyright (C) 2021 Sourajit Karmakar
-    Copyright (C) 2016 Lika Zhygulina
+    Copyright (C) 2020-2021 Vaisakh Murali
+    Copyright (C) 2021 Ashim D. Silva
+    Copyright (C) 2021 Cristina Gottardi
+    Copyright (C) 2021 Alessio Soggetti
+    Copyright (C) 2021 Claudio Testa
+    Copyright (C) 2021 Fakurian Design
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
@@ -63,60 +61,42 @@
             subtitle1="@string/author_vaisakh" />
     </category>
 
-    <category id="From Unsplash" title="@string/category_unsplash" featured="Valleyscape">
+    <category id="From Unsplash" title="@string/category_unsplash" featured="Dunes">
         <static-wallpaper
-            id="Desert"
-            src="@drawable/Desert"
-            title="@string/wallpaper_desert"
-            subtitle1="@string/author_unsplash1" />
+            id="Dunes"
+            src="@drawable/Dunes"
+            title="@string/wallpaper_dunes"
+            subtitle1="@string/author_ashim" />
 
         <static-wallpaper
-            id="Big_Sur"
-            src="@drawable/Big_Sur"
-            title="@string/wallpaper_big_sur"
-            subtitle1="@string/author_unsplash2" />
-
-        <static-wallpaper
-            id="Winter_Evening"
+            id="Winter Evening"
             src="@drawable/Winter_Evening"
             title="@string/wallpaper_winter_evening"
-            subtitle1="@string/author_unsplash3" />
+            subtitle1="@string/author_sourajit" />
 
         <static-wallpaper
-            id="Coastline"
-            src="@drawable/Coastline"
-            title="@string/wallpaper_coastline"
-            subtitle1="@string/author_unsplash4" />
-        
-        <static-wallpaper
-            id="Forest"
-            src="@drawable/Forest"
-            title="@string/wallpaper_forest"
-            subtitle1="@string/author_unsplash5" />
+            id="Cold Sunset"
+            src="@drawable/Cold_Sunset"
+            title="@string/wallpaper_cold_sunset"
+            subtitle1="@string/author_cristina" />
 
         <static-wallpaper
-            id="Golden_Skies"
-            src="@drawable/Golden_Skies"
-            title="@string/wallpaper_golden_skies"
-            subtitle1="T@string/author_unsplash6" />
-
-        <static-wallpaper
-            id="Sunset"
-            src="@drawable/Sunset"
-            title="@string/wallpaper_sunset"
-            subtitle1="@string/author_unsplash7" />
-
-        <static-wallpaper
-            id="Valleyscape"
-            src="@drawable/Valleyscape"
-            title="@string/wallpaper_valleyscape"
-            subtitle1="@string/author_unsplash8" />
-
-        <static-wallpaper
-            id="Marvellous_Peaks"
+            id="Marvellous Peaks"
             src="@drawable/Marvellous_Peaks"
             title="@string/wallpaper_marvellous_peaks"
-            subtitle1="@string/author_unsplash9" />
+            subtitle1="@string/author_mads" />
+
+        <static-wallpaper
+            id="Snowy Sides"
+            src="@drawable/snowy_sides"
+            title="@string/wallpaper_snowy_sides"
+            subtitle1="@string/author_alessio" />
+
+        <static-wallpaper
+            id="Green Hills"
+            src="@drawable/Green_Hills"
+            title="@string/wallpaper_green_hills"
+            subtitle1="@string/author_claudio" />
     </category>
 
     <category id="Gradient Collection" title="@string/category_gradient_collection" featured="Waves">
@@ -155,7 +135,6 @@
             src="@drawable/Sunrise_Mauve"
             title="@string/wallpaper_sunrise_mauve"
             subtitle1="@string/author_fakurian" />
-
     </category>
 
 </resources>

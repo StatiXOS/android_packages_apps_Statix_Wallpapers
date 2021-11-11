@@ -1,14 +1,12 @@
 <!--
     Copyright (C) 2021 StatiXOS
-    Copyright (C) 2020-2021 Vaisakh Murali
-    Copyright (C) 2015 Erik Mclean
-    Copyright (C) 2016 Tincho Franco
-    Copyright (C) 2013 Jonathan Kemper
-    Copyright (C) 2017 Mojtaba Mohtashami
-    Copyright (C) 2020 Marcelo Vaz
-    Copyright (C) 2014 Mads Schmidt
     Copyright (C) 2021 Sourajit Karmakar
-    Copyright (C) 2016 Lika Zhygulina
+    Copyright (C) 2020-2021 Vaisakh Murali
+    Copyright (C) 2021 Ashim D. Silva
+    Copyright (C) 2021 Cristina Gottardi
+    Copyright (C) 2021 Alessio Soggetti
+    Copyright (C) 2021 Claudio Testa
+    Copyright (C) 2021 Fakurian Design
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
@@ -35,26 +33,19 @@
     <string name="wallpaper_lava_mess">Lava Mess</string>
     <string name="wallpaper_cracked_balls">Cracked Balls</string>
 
-    <!-- Sourajit's Collection-->
+    <!-- Unsplash Collection-->
     <string name="category_unsplash">Unsplash</string>
-    <string name="author_unsplash1">Lika Zhygulina</string>
-    <string name="author_unsplash2">Erik Mclean</string>
-    <string name="author_unsplash3">Sourajit Karmakar</string>
-    <string name="author_unsplash4">Emilio Garcia</string>
-    <string name="author_unsplash5">Casey Horner</string>
-    <string name="author_unsplash6">Tincho Franco</string>
-    <string name="author_unsplash7">Mojtaba Mohtashami</string>
-    <string name="author_unsplash8">Marcelo Vaz</string>
-    <string name="author_unsplash9">Mads Schmidt</string>
-    <string name="wallpaper_forest">Forest</string>
-    <string name="wallpaper_big_sur">Big Sur</string>
-    <string name="wallpaper_coastline">Coastline</string>
-    <string name="wallpaper_desert">Desert</string>
-    <string name="wallpaper_golden_skies">Golden Skies</string>
-    <string name="wallpaper_sunset">Sunset</string>
-    <string name="wallpaper_valleyscape">Valleyscape</string>
+    <string name="wallpaper_dunes">Dunes</string>
+    <string name="wallpaper_cold_sunset">Cold Sunset</string>
+    <string name="wallpaper_snowy_sides">Snowy Sides</string>
+    <string name="wallpaper_green_hills">Green Hills</string>
     <string name="wallpaper_winter_evening">Winter Evening</string>
     <string name="wallpaper_marvellous_peaks">Marvellous Peaks</string>
+    <string name="author_mads">Mads Schmidt</string>
+    <string name="author_ashim">Ashim D. Silva</string>
+    <string name="author_cristina">Cristina Gottardi</string>
+    <string name="author_alessio">Alessio Soggetti</string>
+    <string name="author_claudio">Claudio Testa</string>
 
     <!-- Gradient Collection-->
     <string name="category_gradient_collection">Gradient Collection</string>
