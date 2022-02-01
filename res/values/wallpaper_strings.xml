@@ -1,7 +1,7 @@
 <!--
     Copyright (C) 2021 StatiXOS
     Copyright (C) 2021 Sourajit Karmakar
-    Copyright (C) 2020-2021 Vaisakh Murali
+    Copyright (C) 2020-2022 Vaisakh Murali
     Copyright (C) 2021 Ashim D. Silva
     Copyright (C) 2021 Cristina Gottardi
     Copyright (C) 2021 Alessio Soggetti
@@ -26,10 +26,10 @@
     <!-- Vaisakh's Collection -->
     <string name="category_vaisakh_walls">Made by Vaisakh</string>
     <string name="author_vaisakh">Vaisakh Murali</string>
-    <string name="wallpaper_glass_cubes">Glass Cubes</string>
+    <string name="wallpaper_metal_purple">Metal Purple</string>
     <string name="wallpaper_organic_purple">Purple Gradient</string>
     <string name="wallpaper_coloured_plate">Colored Plates</string>
-    <string name="wallpaper_violet_beach">Violet Beach</string>
+    <string name="wallpaper_plastic_canyon">Plastic Canyon</string>
     <string name="wallpaper_lava_mess">Lava Mess</string>
     <string name="wallpaper_cracked_balls">Cracked Balls</string>
 
