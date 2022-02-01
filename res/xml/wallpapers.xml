@@ -1,7 +1,7 @@
 <!--
     Copyright (C) 2021 StatiXOS
     Copyright (C) 2021 Sourajit Karmakar
-    Copyright (C) 2020-2021 Vaisakh Murali
+    Copyright (C) 2020-2022 Vaisakh Murali
     Copyright (C) 2021 Ashim D. Silva
     Copyright (C) 2021 Cristina Gottardi
     Copyright (C) 2021 Alessio Soggetti
@@ -23,11 +23,11 @@
 
 <resources>
 
-    <category id="Made by Vaisakh" title="@string/category_vaisakh_walls" featured="Glass_Cubes">
+    <category id="Made by Vaisakh" title="@string/category_vaisakh_walls" featured="Metal_Purple">
         <static-wallpaper
-            id="Glass_Cubes"
-            src="@drawable/Glass_Cubes"
-            title="@string/wallpaper_glass_cubes"
+            id="Metal_Purple"
+            src="@drawable/Metal_Purple"
+            title="@string/wallpaper_metal_purple"
             subtitle1="@string/author_vaisakh" />
 
         <static-wallpaper
@@ -37,9 +37,9 @@
             subtitle1="@string/author_vaisakh" />
 
         <static-wallpaper
-            id="Violet_Beach"
-            src="@drawable/Violet_Beach"
-            title="@string/wallpaper_violet_beach"
+            id="Plastic_Canyon"
+            src="@drawable/Plastic_Canyon"
+            title="@string/wallpaper_plastic_canyon"
             subtitle1="@string/author_vaisakh" />
 
         <static-wallpaper
