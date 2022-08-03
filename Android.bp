@@ -1,10 +1,24 @@
-// Copyright © 2020 StatiXOS
 //
-// Licensed under the GNU GPLv2 license
+// Copyright (C) 2020-2022 StatiXOS
+// SPDX-License-Identifer: Apache-2.0
 //
-// The text of the license can be found in the LICENSE file
-// or at https://www.gnu.org/licenses/gpl-2.0.txt
-//
+
+package {
+    default_applicable_licenses: ["packages_apps_Statix_Wallpapers_license"],
+}
+
+// Added automatically by a large-scale-change
+// See: http://go/android-license-faq
+license {
+    name: "packages_apps_Statix_Wallpapers_license",
+    visibility: [":__subpackages__"],
+    license_kinds: [
+        "SPDX-license-identifier-Apache-2.0",
+    ],
+    license_text: [
+        "NOTICE",
+    ],
+}
 
 android_app {
     name: "StatiXOSWalls",
