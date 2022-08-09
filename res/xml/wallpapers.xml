@@ -2,23 +2,8 @@
     Copyright (C) 2021 StatiXOS
     Copyright (C) 2021 Sourajit Karmakar
     Copyright (C) 2020-2022 Vaisakh Murali
-    Copyright (C) 2021 Ashim D. Silva
-    Copyright (C) 2021 Cristina Gottardi
-    Copyright (C) 2021 Alessio Soggetti
-    Copyright (C) 2021 Claudio Testa
-    Copyright (C) 2021 Fakurian Design
 
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-
-        http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
+    SPDX-License-Identifer: Apache-2.0
 -->
 
 <resources>
@@ -61,42 +46,30 @@
             subtitle1="@string/author_vaisakh" />
     </category>
 
-    <category id="From Unsplash" title="@string/category_unsplash" featured="Dunes">
+    <category id="NASA" title="@string/category_space" featured="1">
         <static-wallpaper
-            id="Dunes"
-            src="@drawable/Dunes"
-            title="@string/wallpaper_dunes"
-            subtitle1="@string/author_ashim" />
+            id="1"
+            src="@drawable/space"
+            title="@string/wallpaper_smac"
+            subtitle1="@string/desc_smac" />
 
         <static-wallpaper
-            id="Winter Evening"
-            src="@drawable/Winter_Evening"
-            title="@string/wallpaper_winter_evening"
-            subtitle1="@string/author_sourajit" />
+            id="2"
+            src="@drawable/carina"
+            title="@string/wallpaper_carina"
+            subtitle1="@string/desc_carina" />
 
         <static-wallpaper
-            id="Cold Sunset"
-            src="@drawable/Cold_Sunset"
-            title="@string/wallpaper_cold_sunset"
-            subtitle1="@string/author_cristina" />
+            id="3"
+            src="@drawable/south"
+            title="@string/wallpaper_south"
+            subtitle1="@string/desc_south" />
 
         <static-wallpaper
-            id="Marvellous Peaks"
-            src="@drawable/Marvellous_Peaks"
-            title="@string/wallpaper_marvellous_peaks"
-            subtitle1="@string/author_mads" />
-
-        <static-wallpaper
-            id="Snowy Sides"
-            src="@drawable/Snowy_Sides"
-            title="@string/wallpaper_snowy_sides"
-            subtitle1="@string/author_alessio" />
-
-        <static-wallpaper
-            id="Green Hills"
-            src="@drawable/Green_Hills"
-            title="@string/wallpaper_green_hills"
-            subtitle1="@string/author_claudio" />
+            id="4"
+            src="@drawable/stephanq"
+            title="@string/wallpaper_stephan"
+            subtitle1="@string/desc_stephan" />
     </category>
 
     <category id="Gradient Collection" title="@string/category_gradient_collection" featured="Waves">
