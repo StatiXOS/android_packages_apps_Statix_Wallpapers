@@ -10,33 +10,33 @@
 
     <category id="Made by Vaisakh" title="@string/category_vaisakh_walls" featured="Metal_Purple">
         <static-wallpaper
-            id="Metal_Purple"
-            src="@drawable/Metal_Purple"
-            title="@string/wallpaper_metal_purple"
+            id="Stained_Glass"
+            src="@drawable/Stained_Glass"
+            title="@string/wallpaper_stained_glass"
             subtitle1="@string/author_vaisakh" />
 
         <static-wallpaper
-            id="Coloured_plate"
-            src="@drawable/Coloured_plate"
-            title="@string/wallpaper_coloured_plate"
+            id="Asteroid_from_StatiX"
+            src="@drawable/Asteroid_from_StatiX"
+            title="@string/wallpaper_asteroid_from_statix"
             subtitle1="@string/author_vaisakh" />
 
         <static-wallpaper
-            id="Plastic_Canyon"
-            src="@drawable/Plastic_Canyon"
-            title="@string/wallpaper_plastic_canyon"
+            id="Astral_Disturbance"
+            src="@drawable/Astral_Disturbance"
+            title="@string/wallpaper_astral_disturbance"
             subtitle1="@string/author_vaisakh" />
 
         <static-wallpaper
-            id="Organic_Purple"
-            src="@drawable/Organic_Purple"
-            title="@string/wallpaper_organic_purple"
+            id="Frosted_StatiX_Alt"
+            src="@drawable/Frosted_StatiX_Alt"
+            title="@string/wallpaper_frosted_statix"
             subtitle1="@string/author_vaisakh" />
 
         <static-wallpaper
-            id="Lava_Mess"
-            src="@drawable/Lava_Mess"
-            title="@string/wallpaper_lava_mess"
+            id="Vice_Crown"
+            src="@drawable/Vice_Crown"
+            title="@string/wallpaper_vice_crown"
             subtitle1="@string/author_vaisakh" />
 
         <static-wallpaper
@@ -108,6 +108,12 @@
             src="@drawable/Sunrise_Mauve"
             title="@string/wallpaper_sunrise_mauve"
             subtitle1="@string/author_fakurian" />
+
+        <static-wallpaper
+            id="Organic_Purple"
+            src="@drawable/Organic_Purple"
+            title="@string/wallpaper_organic_purple"
+            subtitle1="@string/author_vaisakh" />
     </category>
 
 </resources>
