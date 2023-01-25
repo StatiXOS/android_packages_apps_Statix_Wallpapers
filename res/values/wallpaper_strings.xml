@@ -11,12 +11,14 @@
     <!-- Vaisakh's Collection -->
     <string name="category_vaisakh_walls">Made by Vaisakh</string>
     <string name="author_vaisakh">Vaisakh Murali</string>
-    <string name="wallpaper_stained_glass">Stained Glass</string>
     <string name="wallpaper_asteroid_from_statix">Asteroid from StatiX</string>
     <string name="wallpaper_astral_disturbance">Astral Disturbance</string>
     <string name="wallpaper_frosted_statix">Frosted Alternate</string>
     <string name="wallpaper_cracked_balls">Cracked Balls</string>
     <string name="wallpaper_vice_crown">Vice Crown</string>
+    <string name="wallpaper_bright_and_sweet">Bright and Sweet</string>
+    <string name="wallpaper_nicks_hexagon">Nick's Hexagon</string>
+    <string name="wallpaper_red_oranges">Red Oranges</string>
 
     <!-- Unsplash Collection-->
     <string name="category_space">James Webb Collection</string>
