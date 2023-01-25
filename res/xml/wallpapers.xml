@@ -10,9 +10,21 @@
 
     <category id="Made by Vaisakh" title="@string/category_vaisakh_walls" featured="Metal_Purple">
         <static-wallpaper
-            id="Stained_Glass"
-            src="@drawable/Stained_Glass"
-            title="@string/wallpaper_stained_glass"
+            id="Red Oranges"
+            src="@drawable/Red_Oranges"
+            title="@string/wallpaper_red_oranges"
+            subtitle1="@string/author_vaisakh" />
+
+        <static-wallpaper
+            id="Bright and Sweet"
+            src="@drawable/Bright_and_Sweet"
+            title="@string/wallpaper_bright_and_sweet"
+            subtitle1="@string/author_vaisakh" />
+
+        <static-wallpaper
+            id="Nick's Hexagon"
+            src="@drawable/Nicks_Hexagon"
+            title="@string/wallpaper_nicks_hexagon"
             subtitle1="@string/author_vaisakh" />
 
         <static-wallpaper
