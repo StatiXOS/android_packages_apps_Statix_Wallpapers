@@ -10,53 +10,41 @@
 
     <category id="Made by Vaisakh" title="@string/category_vaisakh_walls" featured="Metal_Purple">
         <static-wallpaper
-            id="Red Oranges"
-            src="@drawable/Red_Oranges"
-            title="@string/wallpaper_red_oranges"
+            id="Blooming Black"
+            src="@drawable/Blooming-Black"
+            title="@string/wallpaper_blooming_black"
             subtitle1="@string/author_vaisakh" />
 
         <static-wallpaper
-            id="Bright and Sweet"
-            src="@drawable/Bright_and_Sweet"
-            title="@string/wallpaper_bright_and_sweet"
+            id="Pastel Blues"
+            src="@drawable/Pastel-Blues"
+            title="@string/wallpaper_pastel_blues"
             subtitle1="@string/author_vaisakh" />
 
         <static-wallpaper
-            id="Nick's Hexagon"
-            src="@drawable/Nicks_Hexagon"
-            title="@string/wallpaper_nicks_hexagon"
+            id="Pastel Greens"
+            src="@drawable/Pastel-Greens"
+            title="@string/wallpaper_pastel_greens"
             subtitle1="@string/author_vaisakh" />
 
         <static-wallpaper
-            id="Oceanic_Flower"
-            src="@drawable/Oceanic_Flower"
-            title="@string/wallpaper_oceanic_flower"
+            id="Pastel Lavender"
+            src="@drawable/Pastel-Lavender"
+            title="@string/wallpaper_pastel_lavender"
             subtitle1="@string/author_vaisakh" />
 
         <static-wallpaper
-            id="Astral_Disturbance"
-            src="@drawable/Astral_Disturbance"
-            title="@string/wallpaper_astral_disturbance"
+            id="Pastel Orange"
+            src="@drawable/Pastel-Orange"
+            title="@string/wallpaper_pastel_orange"
             subtitle1="@string/author_vaisakh" />
 
         <static-wallpaper
-            id="The_Green_Reef"
-            src="@drawable/The_Green_Reef"
-            title="@string/wallpaper_the_green_reef"
+            id="Purple Cookie"
+            src="@drawable/Purple-Cookie"
+            title="@string/wallpaper_purple_cookie"
             subtitle1="@string/author_vaisakh" />
-
-        <static-wallpaper
-            id="Vice_Crown"
-            src="@drawable/Vice_Crown"
-            title="@string/wallpaper_vice_crown"
-            subtitle1="@string/author_vaisakh" />
-
-        <static-wallpaper
-            id="Mountains_of_Hell"
-            src="@drawable/Mountains_of_Hell"
-            title="@string/wallpaper_mountains_of_hell"
-            subtitle1="@string/author_vaisakh" />
-    </category>
+</category>
 
     <category id="NASA" title="@string/category_space" featured="1">
         <static-wallpaper
