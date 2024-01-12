@@ -10,39 +10,33 @@
 
     <category id="Made by Vaisakh" title="@string/category_vaisakh_walls" featured="Metal_Purple">
         <static-wallpaper
-            id="Blooming Black"
-            src="@drawable/Blooming-Black"
-            title="@string/wallpaper_blooming_black"
+            id="Flowing Darkness"
+            src="@drawable/Flowing-Darkness"
+            title="@string/wallpaper_flowing_darkness"
             subtitle1="@string/author_vaisakh" />
 
         <static-wallpaper
-            id="Pastel Blues"
-            src="@drawable/Pastel-Blues"
-            title="@string/wallpaper_pastel_blues"
+            id="Flowing Water"
+            src="@drawable/Flowing-Water"
+            title="@string/wallpaper_flowing_water"
             subtitle1="@string/author_vaisakh" />
 
         <static-wallpaper
-            id="Pastel Greens"
-            src="@drawable/Pastel-Greens"
-            title="@string/wallpaper_pastel_greens"
+            id="Greyed Blues"
+            src="@drawable/Greyed-Blues"
+            title="@string/wallpaper_greyed_blues"
             subtitle1="@string/author_vaisakh" />
 
         <static-wallpaper
-            id="Pastel Lavender"
-            src="@drawable/Pastel-Lavender"
-            title="@string/wallpaper_pastel_lavender"
+            id="Lollipop"
+            src="@drawable/Lollipop"
+            title="@string/wallpaper_lollipop"
             subtitle1="@string/author_vaisakh" />
 
         <static-wallpaper
-            id="Pastel Orange"
-            src="@drawable/Pastel-Orange"
-            title="@string/wallpaper_pastel_orange"
-            subtitle1="@string/author_vaisakh" />
-
-        <static-wallpaper
-            id="Purple Cookie"
-            src="@drawable/Purple-Cookie"
-            title="@string/wallpaper_purple_cookie"
+            id="Tofu Cyan"
+            src="@drawable/Tofu-Cyan"
+            title="@string/wallpaper_tofu_cyan"
             subtitle1="@string/author_vaisakh" />
 </category>
 

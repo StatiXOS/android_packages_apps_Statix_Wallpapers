@@ -11,12 +11,11 @@
     <!-- Vaisakh's Collection -->
     <string name="category_vaisakh_walls">Made by Vaisakh</string>
     <string name="author_vaisakh">Vaisakh Murali</string>
-    <string name="wallpaper_blooming_black">Blooming Black</string>
-    <string name="wallpaper_pastel_blues">Pastel Bluees</string>
-    <string name="wallpaper_pastel_greens">Pastel Greens</string>
-    <string name="wallpaper_pastel_lavender">Pastel Lavender</string>
-    <string name="wallpaper_pastel_orange">Pastel Orange</string>
-    <string name="wallpaper_purple_cookie">Purple Cookie</string>
+    <string name="wallpaper_flowing_darkness">Flowing Darkness</string>
+    <string name="wallpaper_flowing_water">Flowing Water</string>
+    <string name="wallpaper_greyed_blues">Greyed Blues</string>
+    <string name="wallpaper_lollipop">Lollipop</string>
+    <string name="wallpaper_tofu_cyan">Tofu Cyan</string>
 
     <!-- Unsplash Collection-->
     <string name="category_space">James Webb Collection</string>
