@@ -22,6 +22,12 @@
             subtitle1="@string/author_vaisakh" />
 
         <static-wallpaper
+            id="Grass of Glass"
+            src="@drawable/Grass-of-Glass"
+            title="@string/wallpaper_grass_of_glass"
+            subtitle1="@string/author_vaisakh" />
+
+        <static-wallpaper
             id="Greyed Blues"
             src="@drawable/Greyed-Blues"
             title="@string/wallpaper_greyed_blues"
