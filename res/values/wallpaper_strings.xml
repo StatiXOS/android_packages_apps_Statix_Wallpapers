@@ -1,7 +1,7 @@
 <!--
     Copyright (C) 2021-2022 StatiXOS
     Copyright (C) 2021 Sourajit Karmakar
-    Copyright (C) 2020-2022 Vaisakh Murali
+    Copyright (C) 2020-2026 Vaisakh Murali
 
     SPDX-License-Identifer: Apache-2.0
 -->
@@ -11,11 +11,18 @@
     <!-- Vaisakh's Collection -->
     <string name="category_vaisakh_walls">Made by Vaisakh</string>
     <string name="author_vaisakh">Vaisakh Murali</string>
+    <string name="wallpaper_capsules_of_light">Capsules of Light</string>
+    <string name="wallpaper_cubed_1">Cubed 1</string>
+    <string name="wallpaper_cubed_2">Cubed 2</string>
     <string name="wallpaper_flowing_darkness">Flowing Darkness</string>
     <string name="wallpaper_flowing_water">Flowing Water</string>
     <string name="wallpaper_grass_of_glass">Grass of Glass</string>
     <string name="wallpaper_greyed_blues">Greyed Blues</string>
     <string name="wallpaper_lollipop">Lollipop</string>
+    <string name="wallpaper_refractive_games_1">Refractive Games 1</string>
+    <string name="wallpaper_refractive_games_2">Refractive Games 2</string>
+    <string name="wallpaper_refractive_games_3">Refractive Games 3</string>
+    <string name="wallpaper_refractive_games_4">Refractive Games 4</string>
     <string name="wallpaper_tofu_cyan">Tofu Cyan</string>
 
     <!-- Unsplash Collection-->

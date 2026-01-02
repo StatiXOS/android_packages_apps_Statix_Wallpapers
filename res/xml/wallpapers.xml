@@ -1,14 +1,56 @@
 <!--
     Copyright (C) 2021 StatiXOS
     Copyright (C) 2021 Sourajit Karmakar
-    Copyright (C) 2020-2023 Vaisakh Murali
+    Copyright (C) 2020-2026 Vaisakh Murali
 
     SPDX-License-Identifer: Apache-2.0
 -->
 
 <resources>
 
-    <category id="Made by Vaisakh" title="@string/category_vaisakh_walls" featured="Metal_Purple">
+    <category id="Made by Vaisakh" title="@string/category_vaisakh_walls" featured="Capsules of Light">
+        <static-wallpaper
+            id="Capsules of Light"
+            src="@drawable/Capsules-of-Light"
+            title="@string/wallpaper_capsules_of_light"
+            subtitle1="@string/author_vaisakh" />
+
+        <static-wallpaper
+            id="Cubed 1"
+            src="@drawable/Cubed-1"
+            title="@string/wallpaper_cubed_1"
+            subtitle1="@string/author_vaisakh" />
+
+        <static-wallpaper
+            id="Cubed 2"
+            src="@drawable/Cubed-2"
+            title="@string/wallpaper_cubed_2"
+            subtitle1="@string/author_vaisakh" />
+
+        <static-wallpaper
+            id="Refractive Games 1"
+            src="@drawable/Refractive-Games-1"
+            title="@string/wallpaper_refractive_games_1"
+            subtitle1="@string/author_vaisakh" />
+
+        <static-wallpaper
+            id="Refractive Games 2"
+            src="@drawable/Refractive-Games-2"
+            title="@string/wallpaper_refractive_games_2"
+            subtitle1="@string/author_vaisakh" />
+
+        <static-wallpaper
+            id="Refractive Games 3"
+            src="@drawable/Refractive-Games-3"
+            title="@string/wallpaper_refractive_games_3"
+            subtitle1="@string/author_vaisakh" />
+
+        <static-wallpaper
+            id="Refractive Games 4"
+            src="@drawable/Refractive-Games-4"
+            title="@string/wallpaper_refractive_games_4"
+            subtitle1="@string/author_vaisakh" />
+
         <static-wallpaper
             id="Flowing Darkness"
             src="@drawable/Flowing-Darkness"
